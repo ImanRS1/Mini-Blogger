@@ -1,6 +1,8 @@
 import React from 'react';
 import { Container, AppBar, Typography, Grow, Grid } from '@material-ui/core';
 import blogg from "./images/blogg.png"
+import Posts from './components/Posts/Posts';
+import Form from './components/Form/Form';
 
 const App = () => {
     return (
